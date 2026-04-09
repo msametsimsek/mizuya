@@ -1952,3 +1952,10 @@ section {
   text-shadow: 0 0 0.3px currentColor;
 }
 
+.menu-img {
+  width: 100%;
+  aspect-ratio: 2/3;
+  object-fit: cover;
+  border-radius: 12px;
+}
+
